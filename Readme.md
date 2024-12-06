@@ -4,7 +4,7 @@
 
 ## Descripción
 
-Este es un sencillo juego de consola en JavaScript que permite al jugador enfrentarse a la computadora en una partida de Piedra, Papel o Tijeras. El jugador puede ingresar su elección, y el resultado se determina según las reglas clásicas del juego.
+Este es un sencillo juego de JavaScript que permite al jugador enfrentarse a la computadora en una partida de Piedra, Papel o Tijeras. El jugador puede ingresar su elección, y el resultado se determina según las reglas clásicas del juego.
 
 ## Cómo jugar
 
@@ -12,16 +12,8 @@ Este es un sencillo juego de consola en JavaScript que permite al jugador enfren
 
    - Abre el archivo `index.html` en tu navegador favorito.
 
-2. **Abrir la consola del navegador**:
-
-   - Para ver el desarrollo del juego, abre la consola del navegador. Puedes hacerlo haciendo clic derecho en la página, seleccionando "Inspeccionar" o "Inspect" y luego navegando a la pestaña "Consola" o "Console".
-
-3. **Iniciar el juego**:
-
-   - En la consola, sigue las instrucciones para ingresar tu elección: "piedra", "papel" o "tijeras".
-
-4. **Ver el resultado**:
-   - Después de ingresar tu elección, el juego te mostrará en la consola la elección de la computadora y el resultado de la partida.
+2. **Ver el resultado**:
+   - Después de ingresar tu elección, el juego te mostrará la elección de la computadora y el resultado de la partida.
 
 ## Requisitos
 
